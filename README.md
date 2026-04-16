@@ -1,4 +1,5 @@
 # AlphaTrace — Institutional 13F Intelligence Platform
+<img width="1468" height="779" alt="Screenshot 2026-04-16 at 4 05 20 PM" src="https://github.com/user-attachments/assets/39088c32-f546-4300-a9a9-5b56c2db920c" />
 
 > *"What is smart money actually doing?"*
 
