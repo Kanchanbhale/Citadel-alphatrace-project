@@ -9,8 +9,8 @@ AlphaTrace is a multi-agent research system that analyses SEC 13F filings for he
 
 ## Live Demo
 
-**Deployed URL:** `https://alphatrace-1026658918129.us-central1.run.app/`
-**Github:** `https://github.com/Kanchanbhale/Citadel-alphatrace-project`
+**Deployed URL:** https://alphatrace-1026658918129.us-central1.run.app/
+**Github:** https://github.com/Kanchanbhale/Citadel-alphatrace-project
 
 ---
 
